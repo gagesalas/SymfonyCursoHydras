@@ -1,0 +1,5 @@
+taller_gage:
+    resource: "@TallerGageBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
